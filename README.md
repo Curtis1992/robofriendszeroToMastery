@@ -1,1 +1,1 @@
-I'm working on this project for zero to mastery. It's the rebel front app. There are some errors in my source code files that I simply cannot figure out how to fix on my own. So I'm turning to this community for help.
+This is my latest portfolio project, Robo friends app build using react job prescript. All errors from the last upload have been resolved.
