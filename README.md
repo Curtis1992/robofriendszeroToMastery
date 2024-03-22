@@ -1,1 +1,1 @@
-This is my latest portfolio project, Robo friends app build using react job prescript. All errors from the last upload have been resolved.
+This is my latest portfolio project, Robo friends app build using react job prescript. I am very excited about how this project turned out, and I am excited to continue and complete this course by myself appointed deadline of the end of May.
